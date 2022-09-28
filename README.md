@@ -1,4 +1,4 @@
-## Oi eu sou o Gustavo Willians, estudante de análise e desenvolvimento de sistemas!
+## Olá! Me chamo Gustavo Willians, sou estudante de Análise e Desenvolvimento de Sistemas, tenho uma maior afinidade com backend e programo em Java.
  
  - Atualmente estou estudando JAVA!
 
