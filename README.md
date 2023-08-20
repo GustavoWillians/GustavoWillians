@@ -1,13 +1,6 @@
 ## Olá! Me chamo Gustavo Willians, sou estudante de Análise e Desenvolvimento de Sistemas!
  
 
-
-<div align="center">
-  <a href="https://github.com/GustavoWillians">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoWillians&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-  
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
           
