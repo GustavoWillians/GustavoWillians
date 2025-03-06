@@ -1,4 +1,4 @@
-## Olá! Me chamo Gustavo Willians, sou estudante de Análise e Desenvolvimento de Sistemas!
+## Olá! Me chamo Gustavo Willians, sou formado Análise e Desenvolvimento de Sistemas!
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guswillians/)
