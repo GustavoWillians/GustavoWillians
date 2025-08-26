@@ -1,4 +1,4 @@
-## Olá! Me chamo Gustavo Willians, sou formado Análise e Desenvolvimento de Sistemas!
+Hello, My name is Gustavo Willians and I'am Software Engineer | Back-End Systems on AWS
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guswillians/)
