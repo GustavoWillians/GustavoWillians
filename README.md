@@ -13,7 +13,7 @@ I am a **Software Engineer focused on Back-End**
 ### 🛠️ My Tools and Technologies
 
 **Main Technologies:**
-* **Back-End:** Python, Node
+* **Back-End:** Python
 * **Cloud & DevOps:** AWS, Docker, GIT
 * **Databases:** MySQL, SQL, Postgree
 * **Data:** Pandas
