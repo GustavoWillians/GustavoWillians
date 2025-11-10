@@ -1,8 +1,6 @@
 # Hi, I'm Gustavo Willians! 👋
 
-I am a **Software Engineer focused on Back-End and AWS**, with a degree in Systems Analysis and Development from UniFECAF.
-
-Currently, I am part of the team at **EVT**, where I apply my knowledge in development (Python, Node, AWS) and agile methodologies to manage documentation and optimize IT governance processes.
+I am a **Software Engineer focused on Back-End**
 
 ---
 
