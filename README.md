@@ -7,8 +7,6 @@ I am a **Software Engineer focused on Back-End**
 ### 👨‍💻 About Me
 * 💡 I have experience in governance and systems development.
 * ☁️ I am **AWS Cloud Practitioner** certified and also hold a certification in Design Thinking.
-* 🏆 I achieved a podium finish in the UniFECAF Hackathon in 2024.
-* fluency I am fluent in English (B2/Advanced).
 
 ---
 
