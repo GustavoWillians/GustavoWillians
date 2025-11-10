@@ -31,16 +31,6 @@ I am a **Software Engineer focused on Back-End**
 
 ---
 
-### 📊 My GitHub Stats
-
-(These stats will update automatically based on your activity)
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoWillians&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoWillians&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
----
 
 ### 📫 Connect with Me
 
