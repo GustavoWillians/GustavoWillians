@@ -4,12 +4,6 @@ I am a **Software Engineer focused on Back-End**
 
 ---
 
-### 👨‍💻 About Me
-* 💡 I have experience in governance and systems development.
-* ☁️ I am **AWS Cloud Practitioner** certified and also hold a certification in Design Thinking.
-
----
-
 ### 🛠️ My Tools and Technologies
 
 **Main Technologies:**
